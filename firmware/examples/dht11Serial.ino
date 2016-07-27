@@ -1,6 +1,6 @@
 // This example program reads a DHT11 temperature and humidity sensor 
 // connected to photon pin 6 and outputs it to the Rx/Tx Pins at 57600 baud.
-#include "DHT11.h"
+#include "DHT11/DHT11.h"
 
 #define DHT11_PIN 6
 
