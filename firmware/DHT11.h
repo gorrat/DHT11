@@ -29,7 +29,7 @@
 
 #endif
 
-#define DHT11LIB_VERSION "0.4.1"
+#define DHT11LIB_VERSION "0.4.2"
 
 #define DHTLIB_OK                               0
 #define DHTLIB_ERROR_CHECKSUM   -1
