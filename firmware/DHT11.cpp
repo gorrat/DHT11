@@ -1,6 +1,6 @@
 //
 //    FILE: DHT11.cpp
-// VERSION: 0.4.1
+// VERSION: 0.4.2
 // PURPOSE: DHT11 Temperature & Humidity Sensor library for Arduino
 // LICENSE: GPL v3 (http://www.gnu.org/licenses/gpl.html)
 //
@@ -17,7 +17,7 @@
 // + added 1.0 support
 // Mod by Rob Tillaart - Version 0.4.1 (19/05/2012)
 // + added error codes
-// Fork by Matt Gorr - Version 0.4.1 (27/07/2016)
+// Fork by Matt Gorr - Version 0.4.2 (27/07/2016)
 // + port to Particle Photon
 //
 #include "DHT11.h"

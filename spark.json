@@ -1,6 +1,6 @@
 {
     "name": "DHT11",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "author": "Matt <matt.gorr@gmail.com>",
     "license": "GPL v3 (http://www.gnu.org/licenses/gpl.html)",
     "description": "This is a port of the DFRobot DHT11 Arduino Library located here: http://www.dfrobot.com.cn/image/data/DFR0067/dht11.zip"
